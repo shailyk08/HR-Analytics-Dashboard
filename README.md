@@ -18,3 +18,5 @@ attrition count, attrition rate and average age of employees. In middle right si
 job role , 1 rating shows lowest and 4 shows highest.
 
 So this dashboard helps the HR department to gather all insights from data.
+
+........YOU CAN DOWNLOAD THE FILE TO SEE DASHBOARD.......
